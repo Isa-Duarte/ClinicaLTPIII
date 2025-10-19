@@ -1,2 +1,2 @@
 # ClinicaLTPIII
-Trabalh da aula de LTP III 
+Trabalho da aula de LTP III 
